@@ -25,7 +25,7 @@
 	    <artifactId>spring-web</artifactId>
 	</dependency>
 	
-	<!-- spring mvc -->
+	<!-- spring mvc的jar -->
 	<dependency>
 	    <groupId>org.springframework</groupId>
 	    <artifactId>spring-webmvc</artifactId>
