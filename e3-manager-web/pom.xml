@@ -19,7 +19,7 @@
       <scope>test</scope>
     </dependency>
     
-    <!-- spring web的jar -->
+    <!-- spring web的jar胜多负少的 -->
 	<dependency>
 	    <groupId>org.springframework</groupId>
 	    <artifactId>spring-web</artifactId>
