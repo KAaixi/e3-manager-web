@@ -30,4 +30,10 @@ http://www.springframework.org/schema/aop/spring-aop.xsd">
 		<property name="prefix" value="/WEB-INF/jsp/" />
 		<property name="suffix" value=".jsp" />
 	</bean>
+	
+	<!-- 资源映射器 -->
+	<!-- css资源映射 -->
+	<mvc:resources location="/css/" mapping="/css/**" />
+	<!-- js资源映射 -->
+	<mvc:resources location="/js/" mapping="/js/**" />
 </beans>
